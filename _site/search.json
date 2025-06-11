@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ching-Tse Chen",
+    "section": "",
+    "text": "I am a fifth year Ph.D. student in the Finance Program at the University of Chicago, Booth School of Business. Previously, I received an Honors BSc in Economics and Mathematics from the University of Toronto. My primary research interests are household finance and behavioral finance.\nYou can download my CV here. Feel free to reach me at chingtse.chen@chicagobooth.edu."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Ching-Tse Chen",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nHousehold Finance\nBehavioral Finance"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ching-Tse Chen",
+    "section": "Contact",
+    "text": "Contact\nEmail: chingtse.chen@chicagobooth.edu"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "mywebsite",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Ching-Tse Chen",
+    "section": "",
+    "text": "Debt Moratoria: Evidence from Student Loan Forbearance\nwith Michael Dinerstein and Constantine Yannelis\nAmerican Economic Review: Insights, June 2024\n\nAbstract: We evaluate the effects of the 2020 student debt moratorium. Using administrative credit panel data, we compare borrowers whose loans were frozen to borrowers whose loans were not frozen based on whether the government owned the loans. We estimate that borrowers used the new liquidity to increase borrowing on mortgages, auto loans, and credit cards rather than avoid delinquencies. The effects are concentrated among borrowers without delinquencies, who saw no change in credit scores. The results highlight an important complementarity between liquidity and credit, as liquidity increases the demand for credit even as the supply of credit is fixed."
+  },
+  {
+    "objectID": "research.html#published-papers",
+    "href": "research.html#published-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Paper Title Here\nChing-Tse Chen, Coauthor Name, Another Coauthor\nJournal Name, Year\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nPDF | SSRN"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Ching-Tse Chen",
+    "section": "Working Papers",
+    "text": "Working Papers\nSecond Paper Title Here\nwith Coauthor Name\nAbstract: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat…\nPDF | SSRN"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Ching-Tse Chen",
+    "section": "Work in Progress",
+    "text": "Work in Progress\nThe Costs of Lower Transaction Costs\nwith Ming-Jen Lin\nGlobal Investor Expectations and Currency Return Predictability\nCasinos and Local Financial Outcomes with Ari Anisfeld and Jordan Rosenthal-Kay"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Ching-Tse Chen",
+    "section": "",
+    "text": "Debt Moratoria: Evidence from Student Loan Forbearance\nwith Michael Dinerstein and Constantine Yannelis\nAmerican Economic Review: Insights, June 2024\n\nAbstract: We evaluate the effects of the 2020 student debt moratorium. Using administrative credit panel data, we compare borrowers whose loans were frozen to borrowers whose loans were not frozen based on whether the government owned the loans. We estimate that borrowers used the new liquidity to increase borrowing on mortgages, auto loans, and credit cards rather than avoid delinquencies. The effects are concentrated among borrowers without delinquencies, who saw no change in credit scores. The results highlight an important complementarity between liquidity and credit, as liquidity increases the demand for credit even as the supply of credit is fixed."
+  },
+  {
+    "objectID": "research.html#abstract-we-evaluate-the-effects-of-the-2020-student-debt-moratorium.-using-administrative-credit-panel-data-we-compare-borrowers-whose-loans-were-frozen-to-borrowers-whose-loans-were-not-frozen-based-on-whether-the-government-owned-the-loans.-we-estimate-that-borrowers-used-the-new-liquidity-to-increase-borrowing-on-mortgages-auto-loans-and-credit-cards-rather-than-avoid-delinquencies.-the-effects-are-concentrated-among-borrowers-without-delinquencies-who-saw-no-change-in-credit-scores.-the-results-highlight-an-important-complementarity-between-liquidity-and-credit-as-liquidity-increases-the-demand-for-credit-even-as-the-supply-of-credit-is-fixed.",
+    "href": "research.html#abstract-we-evaluate-the-effects-of-the-2020-student-debt-moratorium.-using-administrative-credit-panel-data-we-compare-borrowers-whose-loans-were-frozen-to-borrowers-whose-loans-were-not-frozen-based-on-whether-the-government-owned-the-loans.-we-estimate-that-borrowers-used-the-new-liquidity-to-increase-borrowing-on-mortgages-auto-loans-and-credit-cards-rather-than-avoid-delinquencies.-the-effects-are-concentrated-among-borrowers-without-delinquencies-who-saw-no-change-in-credit-scores.-the-results-highlight-an-important-complementarity-between-liquidity-and-credit-as-liquidity-increases-the-demand-for-credit-even-as-the-supply-of-credit-is-fixed.",
+    "title": "Ching-Tse Chen",
+    "section": "Abstract: We evaluate the effects of the 2020 student debt moratorium. Using administrative credit panel data, we compare borrowers whose loans were frozen to borrowers whose loans were not frozen based on whether the government owned the loans. We estimate that borrowers used the new liquidity to increase borrowing on mortgages, auto loans, and credit cards rather than avoid delinquencies. The effects are concentrated among borrowers without delinquencies, who saw no change in credit scores. The results highlight an important complementarity between liquidity and credit, as liquidity increases the demand for credit even as the supply of credit is fixed.",
+    "text": "Abstract: We evaluate the effects of the 2020 student debt moratorium. Using administrative credit panel data, we compare borrowers whose loans were frozen to borrowers whose loans were not frozen based on whether the government owned the loans. We estimate that borrowers used the new liquidity to increase borrowing on mortgages, auto loans, and credit cards rather than avoid delinquencies. The effects are concentrated among borrowers without delinquencies, who saw no change in credit scores. The results highlight an important complementarity between liquidity and credit, as liquidity increases the demand for credit even as the supply of credit is fixed."
+  }
+]

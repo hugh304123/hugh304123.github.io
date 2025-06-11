@@ -1,0 +1,57 @@
+/* css styles */
+
+
+/* Maroon navbar background */
+.navbar {
+  background-color: maroon !important;
+}
+
+/* Keep navbar text/links white */
+.navbar .navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar .navbar-brand {
+  color: white !important;
+}
+
+
+/* Change banner height */
+.navbar {
+  min-height: 40px;
+  padding: .5rem 1rem;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
+
+
+/* Regular links */
+a {
+  color: #0066cc;
+}
+
+
+/* Photo margin */
+.photo-up {
+  margin-top: -60px;
+}
+
+
+/* Paper title links */
+a.paper-title {
+  color: #000000;  /* or whatever color you prefer */
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* Abstract styling */
+.abstract {
+  font-size: 0.9em;
+}
+
+
+
+

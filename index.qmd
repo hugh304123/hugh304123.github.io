@@ -1,0 +1,18 @@
+---
+title: "Ching-Tse Chen"
+---
+
+::: {.grid}
+
+::: {.g-col-8}
+
+I am a fifth year Ph.D. student in the Finance Program at the University of Chicago, Booth School of Business. Previously, I received an Honors BSc in Economics and Mathematics from the University of Toronto. My primary research interests are household finance and behavioral finance.
+
+You can download my CV [here](cv.pdf). Feel free to reach me at <chingtse.chen@chicagobooth.edu>.
+:::
+
+::: {.g-col-4}
+![](headshot.jpg){width=200px fig-align="center" .photo-up}
+:::
+
+:::

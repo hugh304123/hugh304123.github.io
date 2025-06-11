@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs  # This line is crucial for GitHub Pages
+
+website:
+  title: "Ching-Tse Chen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.pdf
+        text: CV
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
