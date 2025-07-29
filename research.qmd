@@ -11,14 +11,23 @@ Abstract: We evaluate the effects of the 2020 student debt moratorium. Using adm
 :::
 
 
-## Work in Progress
+## Working Papers
 
-**The Costs of Lower Transaction Costs**  
+**The Economic Consequences of Lower Retail Trading Costs** (Job Market Paper)  
 with Ming-Jen Lin  
 
+::: {.abstract}
+Abstract: What happens when trading becomes cheaper for retail investors? This paper provides causal evidence on investor behavior and market outcomes by studying a 2017 tax reform in Taiwan that halves the transaction tax on day trading, a short-term strategy dominated by retail investors. Using detailed transaction data, we show that the reform leads to a substantial increase in day trading volume, driven disproportionately by less sophisticated traders. Beyond changes in trader composition, lower costs also reduce individual performance by encouraging more impulsive behavior, consistent with the idea that transaction costs serve a disciplinary function. The behavioral responses in trading activity and performance fully offset the expected gains from lower costs, leaving the average day trader worse off, with losses concentrated among lower-wealth investors. Despite these individual-level costs, the surge in day trading improves market quality. We find that lower day trading costs increase intraday liquidity and, contrary to common concerns, reduce volatility, highlighting the liquidity provision role of noise trading. Overall, the findings underscore the trade-off policymakers face when designing interventions that affect explicit trading costs for retail investors.
+:::
 
-**Global Investor Expectations and Currency Return Predictability**  
+**Global Investor Expectations and Currency Return Predictability**  (Draft available upon request)
+
+::: {.abstract}
+Abstract: Using survey data on exchange rate and interest rate expectations, this paper investigates the source of predictable exchange rate expectation errors by interest rate differentials. With a present value decomposition of exchange rates, I highlight that the predictable innovation in subjective currency risk premia plays a crucial role in explaining the ex-post predictability of exchange rate forecast errors, which results in predictable currency returns widely-documented in the literature. This is a novel channel of predictability not emphasized in exchange rate models featuring rational expectations or assuming investors make predictable errors for interest rates. As an illustration, I propose a reduced-form model with time-varying subjective perceptions of risk that generates predictable innovation in subjective risk premia. I further present empirical evidence that is consistent with a key property of the model---a positive relationship between subjective perceptions of risk and subjective return expectations.
+:::
 
 
-**Casinos and Local Financial Outcomes**
+## Work in Progress
+
+**Casinos and Local Financial Outcomes**  
 with Ari Anisfeld and Jordan Rosenthal-Kay
