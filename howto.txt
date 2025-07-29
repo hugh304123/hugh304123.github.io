@@ -9,9 +9,9 @@ GitHub automatically updates your live site within a few minutes
 
 To update:
 Use command line to open juypter notebook and edit .qmd files
-Naviage to mywebsite folder and run "quarto preview" to review changes
+Naviage to website folder on dropbox and run "quarto preview" to review changes in cmd
 Then, after completion. run "quarto render" to rebuild the docs folder
 Push your changes to GitHub page at hugh304123.github.io
-
+(Push all files. First, fetch from github. then copy everything in the website folder to "hugh304123.github.io" on dropbox)
 
 
