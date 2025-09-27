@@ -28,7 +28,23 @@
 }
 
 
-/* Regular links */
+/* Set margin for main content */
+main.content {
+  margin-left: -5vw;
+  margin-right: -5vw;  
+}
+
+
+/* Adjust navbar margin */
+/*
+.navbar-container {
+  margin-left: 10%;  
+  padding-left: 0;   
+} */
+
+
+
+/* Regular links style */
 a {
   color: #0066cc;
 }
@@ -54,4 +70,23 @@ a.paper-title {
 
 
 
+
+/* See all the containers (for debugging)*/
+/*
+main.content {
+  border: 2px solid red !important;
+}
+
+main.content > * {
+  border: 2px solid orange !important;
+}
+
+.navbar-container {
+  border: 2px solid blue !important;
+}
+
+.navbar-container > * {
+  border: 2px solid green !important;
+}
+*/
 
