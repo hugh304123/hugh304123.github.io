@@ -1,5 +1,17 @@
 
 
+## Job Market Paper
+
+**[The Economic Consequences of Lower Retail Trading Costs](papers/JMP_draft_latest.pdf){.paper-title}** 
+with Ming-Jen Lin  
+
+::: {.abstract}
+Abstract: Brokerage commissions have fallen substantially worldwide over the past several decades. This paper studies how lower trading costs affect retail investors and the market through increased speculation. We leverage a 2017 tax reform in Taiwan that reduced the transaction tax by 15 basis points specifically for day trading. Using detailed account-level transaction data, we find that the average day trader's portfolio returns decline due to two investor responses. First, day trading volume increases significantly by 30\% but this increase is driven disproportionately by less sophisticated investors. Second, and surprisingly, day traders' gross returns per dollar traded worsen by 5 basis points, reducing the mechanical benefit from the tax cut. Consistent with the view that transaction costs serve a disciplinary role, we trace this performance deterioration to less attentive decision-making. Together, these responses result in a negative net impact on portfolio returns concentrated among investors with smaller holdings, whereas large investors benefit. In contrast with individual-level losses, market quality improves: intraday liquidity increases and volatility decreases following the reform.  Overall, our findings highlight a policy-relevant trade-off: increased retail speculation from lower trading costs can benefit markets while harming individual investors.
+:::
+
+
+
+
 ## Publications
 
 **[Debt Moratoria: Evidence from Student Loan Forbearance](https://www.aeaweb.org/articles?id=10.1257/aeri.20230032){.paper-title}**  
@@ -13,17 +25,10 @@ Abstract: We evaluate the effects of the 2020 student debt moratorium. Using adm
 
 ## Working Papers
 
-**The Economic Consequences of Lower Retail Trading Costs** (Job Market Paper)  
-with Ming-Jen Lin  
+**[Predictable Variation in Subjective Risk Premia and Currency Returns](papers/fx_belief.pdf){.paper-title}**
 
 ::: {.abstract}
-Abstract: Brokerage commissions—once a major trading cost for retail investors—have fallen substantially worldwide over the past several decades. This paper studies how lower trading costs affect retail investors and market outcomes, leveraging a 2017 tax reform in Taiwan. The reform reduced the transaction tax by 15 basis points specifically for day trading. Using detailed account-level transaction data, we find that portfolio returns of the average investor decline due to two investor responses. First, day trading volume increases significantly by 30\% but this increase is driven disproportionately by less sophisticated investors. Second, and surprisingly, day traders' gross returns per dollar traded worsen by 5 basis points, reducing the mechanical benefit per trade from the tax cut. Consistent with the view that transaction costs serve a disciplinary role, we trace this performance deterioration to less attentive decision-making. Together, these responses result in a negative net impact concentrated among investors with smaller holdings, whereas large investors benefit. In contrast with individual-level losses, market quality improves: intraday liquidity increases and volatility decreases following the reform.  Overall, our findings highlight a policy-relevant trade-off: interventions lowering retail trading costs can benefit markets while harming individual investors.
-:::
-
-**Global Investor Expectations and Currency Return Predictability**  (Draft available upon request)
-
-::: {.abstract}
-Abstract: Using survey data on exchange rate and interest rate expectations, this paper investigates the source of predictable exchange rate expectation errors by interest rate differentials. With a present value decomposition of exchange rates, I highlight that the predictable innovation in subjective currency risk premia plays a crucial role in explaining the ex-post predictability of exchange rate forecast errors, which results in predictable currency returns widely-documented in the literature. This is a novel channel of predictability not emphasized in exchange rate models featuring rational expectations or assuming investors make predictable errors for interest rates. As an illustration, I propose a reduced-form model with time-varying subjective perceptions of risk that generates predictable innovation in subjective risk premia. I further present empirical evidence that is consistent with a key property of the model---a positive relationship between subjective perceptions of risk and subjective return expectations.
+Abstract: Using survey data on exchange rate and interest rate expectations, this paper investigates the source of predictable currency returns by interest rate differentials. With a present value decomposition of exchange rates, I highlight that the predictable innovation in subjective currency risk premia plays a crucial role in explaining the ex-post predictability of exchange rate forecast errors, which results in predictable currency returns widely-documented in the literature. This is a novel channel of predictability not emphasized in exchange rate models featuring rational expectations or assuming investors make predictable errors for interest rates. As an illustration, I propose a reduced-form model with time-varying subjective perceptions of risk that generates predictable innovation in subjective risk premia. I further present empirical evidence that is consistent with a key property of the model---a positive relationship between subjective perceptions of risk and subjective return expectations.
 :::
 
 
