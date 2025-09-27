@@ -2,7 +2,7 @@
 
 ## Job Market Paper
 
-**[The Economic Consequences of Lower Retail Trading Costs](papers/JMP_draft_latest.pdf){.paper-title}** 
+**[The Economic Consequences of Lower Retail Trading Costs](papers/JMP_draft.pdf){.paper-title}** 
 with Ming-Jen Lin  
 
 ::: {.abstract}
