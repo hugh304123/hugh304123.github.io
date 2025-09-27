@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - papers
   output-dir: docs  # This line is crucial for GitHub Pages
 
 website:
