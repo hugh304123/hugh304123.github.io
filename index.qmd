@@ -16,7 +16,7 @@ You can download my CV [here](cv.pdf). Feel free to reach me at <chingtse.chen@c
 :::
 
 ::: {.g-col-4}
-![](headshot.jpg){width=200px fig-align="center" .photo-up}
+![](headshot.jpg){width=225px fig-align="center" .photo-up}
 :::
 
 :::
