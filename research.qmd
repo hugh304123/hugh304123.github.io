@@ -1,18 +1,5 @@
 
 
-## Job Market Paper
-
-**[The Economic Consequences of Lower Retail Trading Costs](papers/JMP_draft.pdf){.paper-title}** 
-with Ming-Jen Lin  
-
-::: {.abstract}
-Abstract: This paper studies how lower trading costs affect retail investors and the market through increased speculation. We leverage a 2017 reform in Taiwan that reduced the transaction tax specifically for day trading. Using detailed account-level transaction data, we show that even though lower trading costs mechanically benefit investors, investor responses offset these gains and reduce portfolio returns for two reasons. First, the increase in trading is driven disproportionately by less sophisticated investors who tend to lose money on each trade. Second, and surprisingly, day traders' per-trade performance worsens, eroding the mechanical tax-cut benefit. Consistent with the view that transaction costs serve a disciplinary role, we trace this performance deterioration to less attentive decision-making. Despite individual-level losses, market quality improves: intraday liquidity increases and volatility decreases.  Overall, our findings highlight a policy-relevant trade-off: increased retail speculation from lower trading costs can benefit markets while harming individual investors.
-
-:::
-
-
-
-
 ## Publications
 
 **[Debt Moratoria: Evidence from Student Loan Forbearance](https://www.aeaweb.org/articles?id=10.1257/aeri.20230032){.paper-title}**  
@@ -25,6 +12,13 @@ Abstract: We evaluate the effects of the 2020 student debt moratorium. Using adm
 
 
 ## Working Papers
+
+**[The Economic Consequences of Lower Retail Trading Costs](papers/JMP_draft.pdf){.paper-title}**
+with Ming-Jen Lin
+
+::: {.abstract}
+Abstract: This paper studies how lower trading costs affect retail investors and the market through increased speculation. We leverage a 2017 reform in Taiwan that reduced the transaction tax specifically for day trading. Using detailed account-level transaction data, we show that investor responses offset gains from tax savings and reduce portfolio returns for two reasons. First, the increase in trading is driven disproportionately by less sophisticated investors who tend to lose money on each trade. Second, and surprisingly, day traders' per-trade performance worsens, eroding the tax-cut benefit. Consistent with the view that transaction costs serve a disciplinary role, we trace this deterioration to less attentive decision-making. Despite individual-level losses, market quality improves: intraday liquidity increases and volatility decreases.  Overall, our findings highlight a policy-relevant trade-off: increased retail speculation from lower trading costs can benefit markets while harming individual investors.
+:::
 
 **[Predictable Innovations in Subjective Risk Premia and Currency Returns](papers/fx_belief.pdf){.paper-title}**
 
