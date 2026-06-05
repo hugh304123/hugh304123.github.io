@@ -46,7 +46,7 @@ main.content {
 
 /* Regular links style */
 a {
-  color: #0066cc;
+  color: maroon;
 }
 
 
@@ -59,14 +59,21 @@ a {
 
 /* Paper title links */
 a.paper-title {
-  color: #000000;  /* or whatever color you prefer */
+  color: maroon;
   text-decoration: underline;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 /* Abstract styling */
 .abstract {
   font-size: 0.9em;
+}
+
+/* Coauthor links */
+a.coauthor {
+  color: black;
+  font-style: italic;
+  text-decoration: none;
 }
 
 
