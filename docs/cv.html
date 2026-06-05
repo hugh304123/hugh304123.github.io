@@ -550,6 +550,13 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<script>
+  // Open all PDF links (CV, paper drafts) in a new tab
+  document.querySelectorAll('a[href$=".pdf"]').forEach(function (a) {
+    a.setAttribute("target", "_blank");
+    a.setAttribute("rel", "noopener");
+  });
+</script>
 
 
 

@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - papers
+    - CNAME
   output-dir: docs  # This line is crucial for GitHub Pages
 
 website:
@@ -21,3 +22,12 @@ format:
     theme: flatly
     css: styles.css
     link-external-newwindow: true
+    include-after-body:
+      text: |
+        <script>
+          // Open all PDF links (CV, paper drafts) in a new tab
+          document.querySelectorAll('a[href$=".pdf"]').forEach(function (a) {
+            a.setAttribute("target", "_blank");
+            a.setAttribute("rel", "noopener");
+          });
+        </script>
