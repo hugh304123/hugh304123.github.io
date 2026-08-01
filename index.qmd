@@ -6,11 +6,9 @@ title: "Ching-Tse Chen"
 
 ::: {.g-col-8}
 
-I am a Ph.D. candidate in the Finance Program at the University of Chicago, Booth School of Business.
+I am an Assistant Professor of Finance at Copenhagen Business School.
 
-**I will be joining Copenhagen Business School as an Assistant Professor of Finance starting in August 2026**
-
-My primary research interests are household finance and behavioral finance. Previously, I received an Honors BSc in Economics and Mathematics from the University of Toronto. 
+My primary research interests are household finance and behavioral finance. I received my Ph.D. in Finance from the University of Chicago, Booth School of Business, and an Honors BSc in Economics and Mathematics from the University of Toronto.
 
 You can download my CV [here](cv.pdf). Feel free to reach me at <chingtse.chen@chicagobooth.edu>.
 :::
