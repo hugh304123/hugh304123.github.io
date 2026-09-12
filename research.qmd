@@ -13,7 +13,7 @@ Abstract: We evaluate the effects of the 2020 student debt moratorium. Using adm
 
 ## Working Papers
 
-**[The Economic Consequences of Lower Retail Trading Costs](papers/JMP_draft.pdf){.paper-title target="_blank"}**\
+**[The Economic Consequences of Lower Retail Trading Costs](papers/retail_costs.pdf){.paper-title target="_blank"}**\
 with [Ming-Jen Lin](https://economicsatntu.wixsite.com/ming-jen-lin){.coauthor target="_blank"}
 
 ::: {.abstract}
